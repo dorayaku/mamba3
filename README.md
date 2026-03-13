@@ -1,5 +1,7 @@
 # Mamba3
 
+[![Tests](https://github.com/dorayaku/mamba3/actions/workflows/test.yml/badge.svg)](https://github.com/dorayaku/mamba3/actions/workflows/test.yml)
+
 Complete Mamba-3 implementation. The [official repo](https://github.com/state-spaces/mamba) does not include Mamba-3 yet.
 
 All three innovations from [Mamba-3 (ICLR 2026)](https://openreview.net/forum?id=HwCvaJOiCj):
