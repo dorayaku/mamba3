@@ -1,6 +1,6 @@
 # Mamba3
 
-Complete Mamba-3 implementation. The [official repo](https://github.com/state-spaces/mamba) does not include Mamba-3.
+Complete Mamba-3 implementation. The [official repo](https://github.com/state-spaces/mamba) does not include Mamba-3 yet.
 
 All three innovations from [Mamba-3 (ICLR 2026)](https://openreview.net/forum?id=HwCvaJOiCj):
 
